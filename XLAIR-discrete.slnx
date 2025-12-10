@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Folder Name="/ソリューション項目/">
+    <File Path=".editorconfig" />
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="XLAIR-discrete/XLAIR-discrete.vcxproj" Id="bdd223bb-ebdc-4afc-9f11-79146af2a97d" />
+</Solution>
